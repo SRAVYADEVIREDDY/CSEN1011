@@ -1,0 +1,7 @@
+Algorithm to convert decimal number to binary number
+1.Start
+2.Accept the decimal number-n
+3.Keep dividing n with 2 until it becomes zero
+4.At every step in above operation store remainder (0or1)
+5.to get the equivalent binary number read the remaindersfrom last step to first step
+6.end

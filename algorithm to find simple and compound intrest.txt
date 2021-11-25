@@ -1,0 +1,8 @@
+Alogarithm to find simple intrest and compound intrest
+1.start
+2.Accept principle as p
+3.Accept time period as t
+4.Accept rate of intrest as r
+5.Excute simpleintrest= p*t*r/100
+6.Excute compound intrest =p*(1+r/100)*t
+7.stop

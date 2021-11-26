@@ -1,6 +1,6 @@
 Algorithm to caluculate average & percentage of marks of 5 subjects of a student
 1.Start
-2.Accept enligh marks=a
+2.Accept english marks=a
 3.Accept telugu marks=b
 4.Accept maths marks=c
 5.Accept science marks=d

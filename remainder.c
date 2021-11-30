@@ -9,8 +9,8 @@ algorithm to find remainder
 int main()
   {
     int dividend,divisor, remainder;
-    printf("accept dividend and divisor:");
-    scanf("%d%d dividend ,divisor");
+    printf("accept dividend&divisor:");
+    scanf("%d%d dividend&,divisor");
     remainder=dividend%divisor;
     printf ("your answer is %d",remainder);
     return 0; 

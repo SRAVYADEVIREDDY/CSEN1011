@@ -28,3 +28,10 @@ printf("compound intrest=%d/n",(p*(1+r/100)*t ) );
 return 0;
 
 }
+
+/* Output:
+Run - 1
+Principle = 100
+Rate of Interest = 2
+Time period = 2
+Simple Interest = 4~/CSEN1011-2/Module-01 Programs$ gcc 01-simple-interest.c

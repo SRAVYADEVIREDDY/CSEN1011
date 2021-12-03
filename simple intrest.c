@@ -35,3 +35,8 @@ Principle = 100
 Rate of Interest = 2
 Time period = 2
 Simple Interest = 4~/CSEN1011-2/Module-01 Programs$ gcc 01-simple-interest.c
+
+// Observations - How to display float values?
+
+/* Learnings:
+01. printf, scanf, format specifiers, address operator, new line operator */

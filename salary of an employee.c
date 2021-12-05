@@ -1,3 +1,18 @@
+
+Algorithm to caluculate net salary of an employeee
+1.start
+2.Enter  basic 
+3. Enter HRA
+4.Enter TA
+5.Enter others
+6.Caluculate DA 12% of basic salary 
+7.Caluculate pf 14% of basic salary
+8.Caluculate IT 15% of basic salary
+9.Caluculate net salary=basic+DA+HRA+TA+OTHERS-(PF+IT);
+10.End
+
+program
+
 #include<stdio>
 
 //main program

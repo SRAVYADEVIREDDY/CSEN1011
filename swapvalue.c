@@ -4,13 +4,13 @@
   int d;
   d=a;
   a=b;
-  d=b;
+  b=d;
 }
 int main()
 {
 int x,y;
-printf("before swapping the number\n",a,b);
-scanf("%d%d",&x,&y)
+printf("before swapping the number\n",x,y);
+scanf("%d%d",&x,&y);
 swap (x,y);
 printf("after swapping the number\n,x=%d,y=%d",x,y);
 return 0; 

@@ -1,10 +1,10 @@
 #include<stdio.h>
 void swap(int*x,int*y)
 {
-  int temp
-  temp=*x;
+ int temp;
+  temp =*x;
   *x=*y;
-  *y=*temp;
+  *y=temp;
 }
 int main()
 {
@@ -15,7 +15,7 @@ int main()
   scanf("%d",&b);
   printf("\n Before swapping a:%d",a);
   printf("\n Before swapping b:%d",b);
-  swap(&a,b);
+  swap(&a,&b);
   printf("\n After swapping a:%d",a);
   printf("\n After swapping b:%d",b);
   return 0;

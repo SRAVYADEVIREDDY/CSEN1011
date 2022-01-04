@@ -12,6 +12,7 @@ Note - Fibonacci Series is 0, 1, 1, 2, 3, 5, 8, 13, ... */
 repeat the steps if it is n-2
 06. print c 
 07. Stop.  /*
+
 #include<stdio.h>
 int main()
 {

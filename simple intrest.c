@@ -1,4 +1,4 @@
-Algorithm to caluculate simple and compound intrest
+/*Algorithm to caluculate simple and compound intrest
 1.start
 2. enter the principle as p
 3.enter the rate of intrest as r

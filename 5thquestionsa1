@@ -1,23 +1,14 @@
 /*Given an integer n, return whether every rotation of n is prime.
-Example 1:
-Input: n=199
-Output: True
-Explanation:
-199 is prime, 919 is prime, and 991 is prime.
-Example 2:
-Input: n = 19
-Output: False
-Explanation:
-Although 19 is prime, 91 is not. */
+
 
 /*Algorithm
 01. Start
 02. Accept an integer 'n'
-03. Count the number of digits in n (counter).
+03. Count the number of digits in n.
 04. Repeat the following counter times.
 05. If n is composite display "False" and stop
-    Else digit = n%10, n1 = n/10, n = n1 + digit *power(10, counter) 
-06. If we reached this step it means all numbers are prime.
+    Else digit = n%10, n1 = n/10, n = n1 + digit *power 
+06. if this condition is passed then it is prime
 07. Display "True".
 08. Stop. */
 

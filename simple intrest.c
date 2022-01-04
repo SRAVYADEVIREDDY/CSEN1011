@@ -6,7 +6,7 @@
 5.simple intrest=p*t*r/100
 6.compound intrest=p*(1+r/100)*t
 7.end
-
+*/
 
 
 #include<stdio.h>

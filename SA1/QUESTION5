@@ -32,7 +32,21 @@ int main(void){
     for (int j=2; j<=n/2; j++) {
       if (n%j == 0) {
         printf("False\n");
-        return 0;
+        return 0;  return 0;
+}
+
+/* Output:
+Enter a positive integer: 19
+number of digits = 2
+Value of n = 91
+False
+Enter a positive integer: 199
+number of digits = 3
+Value of n = 919
+Value of n = 991
+Value of n = 199
+True */
+        
       }
     }
     temp = n % 10;

@@ -32,7 +32,7 @@ int main(void){
     for (int j=2; j<=n/2; j++) {
       if (n%j == 0) {
         printf("False\n");
-        return 0;  return 0;
+        return 0;  
 }
 
 /* Output:
@@ -47,11 +47,4 @@ Value of n = 991
 Value of n = 199
 True */
         
-      }
-    }
-    temp = n % 10;
-    n /= 10;
-    n += temp * pow(10, number_of_digits-1);  
-    printf("Value of n = %d\n", n);
-  }
-  printf("True\n");
+     

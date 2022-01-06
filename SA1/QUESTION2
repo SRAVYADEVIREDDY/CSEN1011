@@ -49,4 +49,7 @@ Sum of the digits is 3
 Enter an integer: 0
 Factorial of the given number is 1
 Sum of the digits is 1  */
-LEARNINGS 
+/* Learnings:
+01. Post Decrement
+02. Compound operators */
+

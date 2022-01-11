@@ -15,6 +15,6 @@ int main(void){
   the fourth value in marks array is 13
   the fifth value in marks array is 0/*
   /*learning outcomes
-  basic array excecution
+  basic array excecution/*
   
   

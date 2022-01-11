@@ -6,7 +6,7 @@ int main(void){
   scanf("%d",&marks[index]);
   printf("The elements entered are....\n");
 for(int index=0;index<5; index++)
- printf("%d\n",marks[index]);
+ printf("%d\t",marks[index]);
   return 0;
   
 }

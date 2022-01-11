@@ -8,3 +8,13 @@ int main(void){
   printf("the fifth value in marks array is %d\n",marks[4]);
   return 0;
   }
+/*output
+ the first value in marks is 7
+  the second value in marks array is 9
+  the third value in marks array is 4
+  the fourth value in marks array is 13
+  the fifth value in marks array is 0/*
+  /*learning outcomes
+  basic array excecution
+  
+  

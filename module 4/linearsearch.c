@@ -19,3 +19,10 @@ for (int i=0; i<SIZE; i++)
       return 0;
     }
 
+/*out put 
+Enter the 5 intgers 7,8,9,3, 6
+Enter the element has to be searched:9
+The element is found at :index 2/*
+/*learning outcomes
+declaring arrays
+searching for element in array/*

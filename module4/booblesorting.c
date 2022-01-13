@@ -1,8 +1,7 @@
 # include <stdio.h>
-# include <stdlib.h>
 # define SIZE 10
 int main(void){
-  int list_of_integers[SIZE];  // Array declaration
+  int list_of_integers[SIZE];  
   
   printf("Integers are chosed randomly");
   for (int i=0; i<SIZE; i++)
@@ -28,3 +27,10 @@ int main(void){
   printf("\n");
   return 0;
 }
+/*output
+the elements before sorting are
+3 6 7 5 3 5 6 2 9 1
+the elements after sorting are
+1 2 3 3 5 5 6 6 7 9/*
+/*learning outcomes
+sorting techinque/*

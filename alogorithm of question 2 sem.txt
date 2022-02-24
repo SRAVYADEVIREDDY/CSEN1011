@@ -7,5 +7,5 @@
 7)sum%2==0 then
 8)print same colour
 9)sum%2is not equal to 0 then
-9)print different colour
-10)stop.
+10)print different colour
+11)stop.
